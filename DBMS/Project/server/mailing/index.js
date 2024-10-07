@@ -8,8 +8,8 @@ router.post('/sendemail', async (req, res) => {
   const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-      user: 'mohammedsaqlain202003@gmail.com',
-      pass: 'hxwj xmol idem kcml'
+      user: 'example@gmail.com',
+      pass: 'your password'
     }
   });
 
