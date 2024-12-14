@@ -1,0 +1,165 @@
+{
+  "Header": {
+    "title": "Track!!",
+    "paragraph": "Welcome to Carbon Conscious Tracker, where every step counts towards a greener tomorrow! Join us in minimizing your environmental impact and maximizing sustainability efforts."
+  },
+  "About": {
+    "paragraph": "A Carbon Footprint Tracker, we're passionate about sustainability and environmental stewardship. Our mission is to empower individuals and organizations to make informed choices that reduce their carbon footprint and contribute to a healthier planet.",
+    "Why": [
+      "Expertise: Extensive knowledge.",
+      "Precision: Meticulous attention.",
+      "Commitment: Dedication to sustainability",
+      "Convenience: Streamlined and user-friendly"
+    ],
+    "Why2": [
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "",
+      "largeImage": "img/portfolio/1.jpg",
+      "smallImage": "img/portfolio/1.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "History",
+      "text": "Explore your carbon emission history with us. We meticulously track and analyze your past carbon emissions, providing insights into your environmental impact."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Flight",
+      "text": "Calculate the number of flights you take in a year and quantify the carbon emissions associated with each journey."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Graph",
+      "text": "Visualize your progress towards a sustainable lifestyle with our interactive graphs. Track your carbon emissions, set goals, and monitor your impact on the environment over time."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Recommendations",
+      "text": "Receive personalized recommendations tailored to your lifestyle."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Goal Setting",
+      "text": " Set achievable sustainability goals and track your progress over time."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Community",
+      "text": "nnect with a community of like-minded individuals to share tips, experiences."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Visualization",
+      "text": "Visualize your carbon footprint data through interactive charts."
+    }
+  ]
+}
